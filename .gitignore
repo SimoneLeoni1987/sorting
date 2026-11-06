@@ -1,0 +1,17 @@
+# Build output
+/build/
+*.o
+*.obj
+*.exe
+*.out
+
+# Debug symbols and crash dumps
+*.pdb
+*.ilk
+*.dmp
+
+# Editor and operating-system files
+.vscode/*
+!.vscode/tasks.json
+.DS_Store
+Thumbs.db
